@@ -1,0 +1,17 @@
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\bin\Debug\net8.0-windows\ejemploejemplo.exe
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\bin\Debug\net8.0-windows\ejemploejemplo.deps.json
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\bin\Debug\net8.0-windows\ejemploejemplo.runtimeconfig.json
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\bin\Debug\net8.0-windows\ejemploejemplo.dll
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\bin\Debug\net8.0-windows\ejemploejemplo.pdb
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\obj\Debug\net8.0-windows\ejemploejemplo.Form1.resources
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\obj\Debug\net8.0-windows\ejemploejemplo.csproj.GenerateResource.cache
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\obj\Debug\net8.0-windows\ejemploejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\obj\Debug\net8.0-windows\ejemploejemplo.AssemblyInfoInputs.cache
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\obj\Debug\net8.0-windows\ejemploejemplo.AssemblyInfo.cs
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\obj\Debug\net8.0-windows\ejemploejemplo.csproj.CoreCompileInputs.cache
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\obj\Debug\net8.0-windows\ejemploejemplo.sourcelink.json
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\obj\Debug\net8.0-windows\ejemploejemplo.dll
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\obj\Debug\net8.0-windows\refint\ejemploejemplo.dll
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\obj\Debug\net8.0-windows\ejemploejemplo.pdb
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\obj\Debug\net8.0-windows\ejemploejemplo.genruntimeconfig.cache
+C:\Users\JuanPrograma\source\repos\ejemploejemplo\ejemploejemplo\obj\Debug\net8.0-windows\ref\ejemploejemplo.dll

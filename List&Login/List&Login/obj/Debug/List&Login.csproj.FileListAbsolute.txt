@@ -1,0 +1,10 @@
+C:\Users\JuanPrograma\source\repos\List&Login\List&Login\obj\Debug\List&Login.csproj.AssemblyReference.cache
+C:\Users\JuanPrograma\source\repos\List&Login\List&Login\obj\Debug\List_Login.Form1.resources
+C:\Users\JuanPrograma\source\repos\List&Login\List&Login\obj\Debug\List_Login.Properties.Resources.resources
+C:\Users\JuanPrograma\source\repos\List&Login\List&Login\obj\Debug\List&Login.csproj.GenerateResource.cache
+C:\Users\JuanPrograma\source\repos\List&Login\List&Login\obj\Debug\List&Login.csproj.CoreCompileInputs.cache
+C:\Users\JuanPrograma\source\repos\List&Login\List&Login\bin\Debug\List&Login.exe.config
+C:\Users\JuanPrograma\source\repos\List&Login\List&Login\bin\Debug\List&Login.exe
+C:\Users\JuanPrograma\source\repos\List&Login\List&Login\bin\Debug\List&Login.pdb
+C:\Users\JuanPrograma\source\repos\List&Login\List&Login\obj\Debug\List&Login.exe
+C:\Users\JuanPrograma\source\repos\List&Login\List&Login\obj\Debug\List&Login.pdb

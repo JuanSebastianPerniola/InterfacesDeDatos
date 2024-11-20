@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JuanPrograma\\source\\repos\\ejemploejemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{088B19EF-302F-4C15-A16D-8D06BB264043}|ejemploejemplo\\ejemploejemplo.csproj|c:\\users\\juanprograma\\source\\repos\\ejemploejemplo\\ejemploejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088B19EF-302F-4C15-A16D-8D06BB264043}|ejemploejemplo\\ejemploejemplo.csproj|solutionrelative:ejemploejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JuanPrograma\\source\\repos\\ejemploejemplo\\ejemploejemplo\\Program.cs",
+              "RelativeDocumentMoniker": "ejemploejemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\JuanPrograma\\source\\repos\\ejemploejemplo\\ejemploejemplo\\Program.cs",
+              "RelativeToolTip": "ejemploejemplo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:12:03.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

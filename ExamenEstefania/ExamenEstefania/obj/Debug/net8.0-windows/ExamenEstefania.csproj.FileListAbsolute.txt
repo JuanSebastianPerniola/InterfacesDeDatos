@@ -1,0 +1,17 @@
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\bin\Debug\net8.0-windows\ExamenEstefania.exe
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\bin\Debug\net8.0-windows\ExamenEstefania.deps.json
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\bin\Debug\net8.0-windows\ExamenEstefania.runtimeconfig.json
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\bin\Debug\net8.0-windows\ExamenEstefania.dll
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\bin\Debug\net8.0-windows\ExamenEstefania.pdb
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\obj\Debug\net8.0-windows\ExamenEstefania.Form1.resources
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\obj\Debug\net8.0-windows\ExamenEstefania.csproj.GenerateResource.cache
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\obj\Debug\net8.0-windows\ExamenEstefania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\obj\Debug\net8.0-windows\ExamenEstefania.AssemblyInfoInputs.cache
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\obj\Debug\net8.0-windows\ExamenEstefania.AssemblyInfo.cs
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\obj\Debug\net8.0-windows\ExamenEstefania.csproj.CoreCompileInputs.cache
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\obj\Debug\net8.0-windows\ExamenEstefania.sourcelink.json
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\obj\Debug\net8.0-windows\ExamenEstefania.dll
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\obj\Debug\net8.0-windows\refint\ExamenEstefania.dll
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\obj\Debug\net8.0-windows\ExamenEstefania.pdb
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\obj\Debug\net8.0-windows\ExamenEstefania.genruntimeconfig.cache
+C:\Users\JuanPrograma\source\repos\ExamenEstefania\ExamenEstefania\obj\Debug\net8.0-windows\ref\ExamenEstefania.dll

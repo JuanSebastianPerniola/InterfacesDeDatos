@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JuanPrograma\\source\\repos\\TrabajoEnClase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A20F5DE0-883F-4687-8B12-75A3F6399196}|TrabajoEnClase\\TrabajoEnClase.vbproj|c:\\users\\juanprograma\\source\\repos\\trabajoenclase\\trabajoenclase\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A20F5DE0-883F-4687-8B12-75A3F6399196}|TrabajoEnClase\\TrabajoEnClase.vbproj|solutionrelative:trabajoenclase\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20F5DE0-883F-4687-8B12-75A3F6399196}|TrabajoEnClase\\TrabajoEnClase.vbproj|c:\\users\\juanprograma\\source\\repos\\trabajoenclase\\trabajoenclase\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A20F5DE0-883F-4687-8B12-75A3F6399196}|TrabajoEnClase\\TrabajoEnClase.vbproj|solutionrelative:trabajoenclase\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20F5DE0-883F-4687-8B12-75A3F6399196}|TrabajoEnClase\\TrabajoEnClase.vbproj|c:\\users\\juanprograma\\source\\repos\\trabajoenclase\\trabajoenclase\\application.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A20F5DE0-883F-4687-8B12-75A3F6399196}|TrabajoEnClase\\TrabajoEnClase.vbproj|solutionrelative:trabajoenclase\\application.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\JuanPrograma\\source\\repos\\TrabajoEnClase\\TrabajoEnClase\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TrabajoEnClase\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\JuanPrograma\\source\\repos\\TrabajoEnClase\\TrabajoEnClase\\MainWindow.xaml",
+              "RelativeToolTip": "TrabajoEnClase\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T15:01:30.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\JuanPrograma\\source\\repos\\TrabajoEnClase\\TrabajoEnClase\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "TrabajoEnClase\\MainWindow.xaml.vb",
+              "ToolTip": "C:\\Users\\JuanPrograma\\source\\repos\\TrabajoEnClase\\TrabajoEnClase\\MainWindow.xaml.vb",
+              "RelativeToolTip": "TrabajoEnClase\\MainWindow.xaml.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-22T14:35:31.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.xaml",
+              "DocumentMoniker": "C:\\Users\\JuanPrograma\\source\\repos\\TrabajoEnClase\\TrabajoEnClase\\Application.xaml",
+              "RelativeDocumentMoniker": "TrabajoEnClase\\Application.xaml",
+              "ToolTip": "C:\\Users\\JuanPrograma\\source\\repos\\TrabajoEnClase\\TrabajoEnClase\\Application.xaml",
+              "RelativeToolTip": "TrabajoEnClase\\Application.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T14:56:29.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

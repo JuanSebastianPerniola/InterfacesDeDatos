@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JuanPrograma\\source\\repos\\ejemploejemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1638468B-541E-4D72-8354-067EDA286577}|Solution Items{1638468B-541E-4D72-8354-067EDA286577}|C:\\Users\\JuanPrograma\\source\\repos\\ejemploejemplo\\clase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1638468B-541E-4D72-8354-067EDA286577}|Solution Items{1638468B-541E-4D72-8354-067EDA286577}|solutionrelative:clase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088B19EF-302F-4C15-A16D-8D06BB264043}|ejemploejemplo\\ejemploejemplo.csproj|c:\\users\\juanprograma\\source\\repos\\ejemploejemplo\\ejemploejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088B19EF-302F-4C15-A16D-8D06BB264043}|ejemploejemplo\\ejemploejemplo.csproj|solutionrelative:ejemploejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088B19EF-302F-4C15-A16D-8D06BB264043}|ejemploejemplo\\ejemploejemplo.csproj|c:\\users\\juanprograma\\source\\repos\\ejemploejemplo\\ejemploejemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{088B19EF-302F-4C15-A16D-8D06BB264043}|ejemploejemplo\\ejemploejemplo.csproj|solutionrelative:ejemploejemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088B19EF-302F-4C15-A16D-8D06BB264043}|ejemploejemplo\\ejemploejemplo.csproj|c:\\users\\juanprograma\\source\\repos\\ejemploejemplo\\ejemploejemplo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088B19EF-302F-4C15-A16D-8D06BB264043}|ejemploejemplo\\ejemploejemplo.csproj|solutionrelative:ejemploejemplo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\JuanPrograma\\source\\repos\\ejemploejemplo\\ejemploejemplo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ejemploejemplo\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\JuanPrograma\\source\\repos\\ejemploejemplo\\ejemploejemplo\\Form1.Designer.cs",
+              "RelativeToolTip": "ejemploejemplo\\Form1.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:17:18.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\JuanPrograma\\source\\repos\\ejemploejemplo\\ejemploejemplo\\Form1.cs",
+              "RelativeDocumentMoniker": "ejemploejemplo\\Form1.cs",
+              "ToolTip": "C:\\Users\\JuanPrograma\\source\\repos\\ejemploejemplo\\ejemploejemplo\\Form1.cs [Design]",
+              "RelativeToolTip": "ejemploejemplo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:17:13.717Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clase1.cs",
+              "DocumentMoniker": "C:\\Users\\JuanPrograma\\source\\repos\\ejemploejemplo\\clase1.cs",
+              "RelativeDocumentMoniker": "clase1.cs",
+              "ToolTip": "C:\\Users\\JuanPrograma\\source\\repos\\ejemploejemplo\\clase1.cs*",
+              "RelativeToolTip": "clase1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:12:40.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JuanPrograma\\source\\repos\\ejemploejemplo\\ejemploejemplo\\Program.cs",
+              "RelativeDocumentMoniker": "ejemploejemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\JuanPrograma\\source\\repos\\ejemploejemplo\\ejemploejemplo\\Program.cs",
+              "RelativeToolTip": "ejemploejemplo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:12:03.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
